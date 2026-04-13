@@ -4,7 +4,7 @@
 
 ```bash
 git clone https://github.com/HyLe2302/back-end-web-exam.git
-cd back-end-web-exam
+cd back-end
 ```
 
 ---
